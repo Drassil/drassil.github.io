@@ -28,11 +28,12 @@
   "pages": {
     "index-en.html": {
       "settings": {
-        "title": "",
+        "title": "English",
         "meta_descr": "",
         "header_custom": "<style>\n.mbr-arrow{\n   color: #FFFFFF;\n}\n</style>",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 2
       },
       "components": [
         {
@@ -58,7 +59,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
@@ -75,8 +76,8 @@
             "overlayOpacity": "0.4"
           },
           "title": "Drassil",
-          "text": "<br>Drassil Association is a non-profit organization that manages and/or supports many cultural and &nbsp;leisure projects. It leads to the creation of social communities by providing the best tools in order to put them in communication with each other, under the same<br> <i>tree</i>.<br>Our goals: promoting and organizing live &amp; online gaming sessions; &nbsp;giving support to artistic, technological, scientific projects and everything related to culture.<br><br>Begin to discover Drassil <i>branches</i>! <br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"pages/laboratory.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"li_lab mbr-iconfont mbr-iconfont-btn\"></span>Drassil Laboratory</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://www.drassil.net\" data-toolbar=\"-mbrBtnMove\">Drassil Network<span class=\"icon54-v2-cup-2 mbr-iconfont mbr-iconfont-btn\"></span></a>"
+          "text": "<br>Drassil Association is a non-profit organization that manages and/or supports many cultural and &nbsp;leisure projects. It leads to the creation of social communities by providing the best tools in order to put them in communication with each other, under the same<br> <i>tree</i>.<br>Our goals: promoting and organizing live &amp; online gaming sessions; &nbsp;giving support to artistic, technological, scientific projects and everything related to culture.<br><br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"pages/laboratory.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"li_lab mbr-iconfont mbr-iconfont-btn\"></span>Drassil Laboratory</a> "
         },
         {
           "alias": "purity/components",
@@ -124,7 +125,7 @@
           },
           "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "buttons": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-success-outline btn-success\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\"><span class=\"fa fa-group mbr-iconfont mbr-iconfont-btn-parent\"></span>Partners</a></li>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-success\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"><br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-success\" data-app-selector=\".nav-link\" href=\"index-en.html\"><span class=\"mdi-action-language mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(65, 168, 95);\">&nbsp;English</span></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-success\" data-app-selector=\".nav-link\" href=\"index-it.html\"><span class=\"mdi-action-language mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(65, 168, 95);\">&nbsp;Italian</span></a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-success\" data-app-selector=\".nav-link\" href=\"pages/blog.html\"><span class=\"li_news mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(65, 168, 95);\"></span> Blog</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-success\" data-app-selector=\".nav-link\" href=\"index-it.html\"></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-success\" data-app-selector=\".nav-link\" href=\"index-it.html\"></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-success\" data-app-selector=\".nav-link\" href=\"index-it.html\"></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-success\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-success\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"><br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-success\" data-app-selector=\".nav-link\" href=\"index-en.html\"><span class=\"mdi-action-language mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(65, 168, 95);\">&nbsp;English</span></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-success\" data-app-selector=\".nav-link\" href=\"index-it.html\"><span class=\"mdi-action-language mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(65, 168, 95);\">&nbsp;Italian</span></a></li>     <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-success\" data-app-selector=\".nav-link\" href=\"index-it.html\"></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-success\" data-app-selector=\".nav-link\" href=\"index-it.html\"></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-success\" data-app-selector=\".nav-link\" href=\"index-it.html\"></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-success\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>"
         },
         {
           "alias": "purity/components",
@@ -145,7 +146,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "<p>Copyright (c) 2016 Drassil.org&nbsp;<br>Contacts:&nbsp;<a href=\"mailto:staff-drassil@googlegroups.com\">staff-drassil@googlegroups.com</a><br>Tax code: 95164560658</p>",
+          "text": "<p>Copyright (c) 2016-2021 Drassil.org&nbsp;<br>Contacts: <a href=\"https://github.com/Drassil/drassil.github.io/discussions\" class=\"text-warning\" target=\"_blank\">Forum</a><br>Tax code: 95164560658</p>",
           "_customHTML": "<footer class=\"mbr-section mbr-section-nopadding mbr-footer\" style=\"background-color: rgb(17, 1, 26); padding-top: 3rem; padding-bottom: 1.98rem;\">\n    \n    <div class=\"container\">\n        <p class=\"mbr-editable-content\" code-editable-id=\"12\"></p><p>Copyright (c) 2016 Drassil.org&nbsp;<br>Contacts:&nbsp;<a href=\"mailto:staff-drassil@googlegroups.com\">staff-drassil@googlegroups.com</a><br>Tax code: 95164560658</p><p></p>\n        <form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\">\n<input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\">\n<input type=\"hidden\" name=\"hosted_button_id\" value=\"G3F7FV2WTKMVE\">\n<input type=\"image\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif\" border=\"0\" name=\"submit\" alt=\"PayPal - The safer, easier way to pay online!\">\n<img alt=\"\" border=\"0\" src=\"https://www.paypalobjects.com/it_IT/i/scr/pixel.gif\" width=\"1\" height=\"1\">\n</form>\n\n    </div>\n</footer>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
@@ -157,7 +158,7 @@
     "index-it.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "Italian",
         "meta_descr": "",
         "header_custom": "<style>\n.mbr-arrow{\n   color: #FFFFFF;\n}\n</style>",
         "footer_custom": "",
@@ -187,7 +188,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
@@ -204,8 +205,8 @@
             "overlayOpacity": "0.4"
           },
           "title": "Drassil",
-          "text": "Drassil è un associazione senza scopo di lucro che gestisce e/o sponsorizza vari progetti di carattere ricreativo e culturale creando comunità sociali, fornendo i migliori strumenti per metterle in comunicazione tra loro sotto lo stesso <i>albero</i>.&nbsp;<br><b>I nostri obiettivi:</b> promuovere ed organizzare&nbsp;sessioni di gioco dal vivo e online; dare supporto a progetti artistici, tecnologici , scientifici e tutto ciò che concerne la cultura.<br><br>Inizia a scoprire Drassil! scegli il <i>ramo</i> che preferisci:",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"pages/laboratory.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"li_lab mbr-iconfont mbr-iconfont-btn\"></span>Drassil Laboratory</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://www.drassil.net\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Drassil Network <span class=\"icon54-v2-cup-2 mbr-iconfont mbr-iconfont-btn\"></span></a> "
+          "text": "Drassil è un associazione senza scopo di lucro che gestisce e/o sponsorizza vari progetti di carattere ricreativo e culturale creando comunità sociali, fornendo i migliori strumenti per metterle in comunicazione tra loro sotto lo stesso <i>albero</i>.&nbsp;<br><b>I nostri obiettivi:</b> promuovere ed organizzare&nbsp;sessioni di gioco dal vivo e online; dare supporto a progetti artistici, tecnologici , scientifici e tutto ciò che concerne la cultura.<br><br><br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"pages/laboratory.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"li_lab mbr-iconfont mbr-iconfont-btn\"></span>Drassil Laboratory</a>  "
         },
         {
           "alias": "purity/components",
@@ -279,9 +280,9 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "<p>Copyright (c) 2016 Drassil.org&nbsp;<br>Contacts:&nbsp;<a href=\"mailto:staff-drassil@googlegroups.com\">staff-drassil@googlegroups.com</a><br>Tax code: 95164560658</p>",
+          "text": "<p>Copyright (c) 2016-2021 Drassil.org&nbsp;<br>Contacts: <a href=\"https://github.com/Drassil/drassil.github.io/discussions\" class=\"text-warning\" target=\"_blank\">Forum</a><br>Tax code: 95164560658</p>",
           "_customCSS": "",
-          "_customHTML": "<footer class=\"mbr-section mbr-section-nopadding mbr-footer\" style=\"background-color: rgb(17, 1, 26); padding-top: 3rem; padding-bottom: 1.98rem;\">\n    \n    <div class=\"container\">\n        <p class=\"mbr-editable-content\" code-editable-id=\"19\"></p><p>Copyright (c) 2016 Drassil.org&nbsp;<br>Email:&nbsp;<a href=\"mailto:staff-drassil@googlegroups.com\">staff-drassil@googlegroups.com</a><br>Codice Fiscale: 95164560658</p><p></p>\n\n        <form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\">\n            <input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\">\n            <input type=\"hidden\" name=\"hosted_button_id\" value=\"G3F7FV2WTKMVE\">\n            <input type=\"image\" src=\"https://www.paypalobjects.com/it_IT/i/btn/btn_donate_LG.gif\" border=\"0\" name=\"submit\" alt=\"PayPal - The safer, easier way to pay online!\">\n            <img alt=\"\" border=\"0\" src=\"https://www.paypalobjects.com/it_IT/i/scr/pixel.gif\" width=\"1\" height=\"1\">\n            </form>\n    </div>\n</footer>",
+          "_customHTML": "<footer class=\"mbr-section mbr-section-nopadding mbr-footer\" style=\"background-color: rgb(17, 1, 26); padding-top: 3rem; padding-bottom: 1.98rem;\">\n    \n    <div class=\"container\">\n        <p class=\"mbr-editable-content\" code-editable-id=\"12\"></p><p>Copyright (c) 2016 Drassil.org&nbsp;<br>Contacts:&nbsp;<a href=\"mailto:staff-drassil@googlegroups.com\">staff-drassil@googlegroups.com</a><br>Tax code: 95164560658</p><p></p>\n        <form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\">\n<input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\">\n<input type=\"hidden\" name=\"hosted_button_id\" value=\"G3F7FV2WTKMVE\">\n<input type=\"image\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif\" border=\"0\" name=\"submit\" alt=\"PayPal - The safer, easier way to pay online!\">\n<img alt=\"\" border=\"0\" src=\"https://www.paypalobjects.com/it_IT/i/scr/pixel.gif\" width=\"1\" height=\"1\">\n</form>\n\n    </div>\n</footer>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customTemplate": true,
@@ -290,7 +291,10 @@
       ]
     },
     "index.html": {
-      "settings": {},
+      "settings": {
+        "order": 1,
+        "title": "Home"
+      },
       "components": [
         {
           "alias": "purity/components",
